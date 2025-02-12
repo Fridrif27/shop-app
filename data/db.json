@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "e65a",
+      "name": "Product name",
+      "imageUrl": "some url here",
+      "count": 4,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        {
+          "id": 1739380740036,
+          "productId": "e65a",
+          "description": "some text here",
+          "date": "12/02/2025, 19:19:00"
+        }
+      ]
+    }
+  ]
+}
